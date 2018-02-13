@@ -1,0 +1,77 @@
+十二月 01, 2017 1:30:36 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 01, 2017 1:43:00 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 01, 2017 5:01:11 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 01, 2017 5:04:00 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 01, 2017 11:30:57 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 01, 2017 11:32:25 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 01, 2017 11:38:16 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 01, 2017 11:41:00 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:25:36 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:29:04 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:33:39 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:35:57 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:37:38 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:38:10 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:39:20 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:41:42 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 12:41:59 上午 Client.Client getAvailableTimeSlot
+信息: 
+WSTs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:42:10 上午 Client.StudentClient bookRoom
+信息: 
+Student WSTs1111
+booking room 1
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 12:42:24 上午 Client.StudentClient getAvailableTimeSlot
+信息: 
+WSTs1111 check available time slots count of all campus on Fri Dec 01 00:00:00 EST 2017
+十二月 02, 2017 1:17:16 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 1:17:53 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 1:18:48 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 1:19:24 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in
+十二月 02, 2017 1:24:01 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1111 logged in

@@ -1,0 +1,704 @@
+十一月 26, 2017 2:22:44 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十一月 26, 2017 2:23:03 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Westmount Campus
+十一月 26, 2017 2:24:12 下午 Client.StudentClient getAvailableTimeSlot
+信息: 
+DVLs1111 check available time slots count of all campus on Sun Oct 01 00:00:00 EDT 2017
+十一月 26, 2017 2:46:49 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十一月 26, 2017 2:47:08 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Westmount Campus
+十一月 26, 2017 2:47:09 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 1
+from Sun Oct 01 08:00:00 EDT 2017
+to Sun Oct 01 09:00:00 EDT 2017
+in Westmount Campus
+---SUCCEEDED
+十一月 26, 2017 2:47:17 下午 Client.StudentClient getAvailableTimeSlot
+信息: 
+DVLs1111 check available time slots count of all campus on Sun Oct 01 00:00:00 EDT 2017
+十一月 26, 2017 2:47:40 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Droval Campus
+十一月 26, 2017 2:48:04 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Westmount Campus
+十一月 26, 2017 2:48:16 下午 Client.StudentClient getAvailableTimeSlot
+信息: 
+DVLs1111 check available time slots count of all campus on Sun Oct 01 00:00:00 EDT 2017
+十一月 26, 2017 2:48:48 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Kirkland Campus
+十一月 26, 2017 2:49:00 下午 Client.StudentClient getAvailableTimeSlot
+信息: 
+DVLs1111 check available time slots count of all campus on Sun Oct 01 00:00:00 EDT 2017
+十一月 26, 2017 2:50:15 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Droval Campus
+十一月 26, 2017 2:50:22 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 1
+from Sun Oct 01 08:00:00 EDT 2017
+to Sun Oct 01 09:00:00 EDT 2017
+in Droval Campus
+---SUCCEEDED
+十一月 26, 2017 2:51:08 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Kirkland Campus
+十一月 26, 2017 2:51:15 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Sun Oct 01 08:00:00 EDT 2017
+to Sun Oct 01 09:00:00 EDT 2017
+in Kirkland Campus
+---SUCCEEDED
+十一月 26, 2017 2:51:25 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Kirkland Campus
+十一月 26, 2017 2:52:20 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Sun Oct 01 00:00:00 EDT 2017 in Droval Campus
+十一月 26, 2017 2:52:27 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Sun Oct 01 08:00:00 EDT 2017
+to Sun Oct 01 09:00:00 EDT 2017
+in Droval Campus
+---SUCCEEDED
+十二月 01, 2017 1:30:36 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 1:42:59 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 2:05:54 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 2:06:04 下午 Client.StudentClient getAvailableTimeSlot
+信息: 
+DVLs1111 check available time slots count of all campus on Wed Nov 01 00:00:00 EDT 2017
+十二月 01, 2017 2:06:20 下午 Client.StudentClient getAvailableTimeSlot
+信息: 
+DVLs1111 check available time slots count of all campus on Sun Oct 01 00:00:00 EDT 2017
+十二月 01, 2017 2:07:25 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 2:07:55 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 01, 2017 2:08:11 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 1
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 01, 2017 8:21:40 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 8:22:11 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 01, 2017 8:22:53 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 1
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 01, 2017 11:30:56 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 11:32:24 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 11:38:16 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 01, 2017 11:41:00 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:25:36 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:25:36 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:25:36 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:25:36 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 12:25:36 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:25:36 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:25:36 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 12:25:36 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---SUCCEEDED
+十二月 02, 2017 12:25:36 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED
+十二月 02, 2017 12:25:36 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 12:29:04 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:29:04 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:29:04 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:29:04 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:29:04 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:29:04 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 12:29:04 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 12:29:05 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 12:29:05 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---SUCCEEDED
+十二月 02, 2017 12:29:05 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED
+十二月 02, 2017 12:33:39 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:33:39 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:33:39 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:33:39 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:33:39 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:33:39 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 12:33:39 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 12:33:39 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---SUCCEEDED
+十二月 02, 2017 12:33:39 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED
+十二月 02, 2017 12:33:39 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 12:35:57 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:35:57 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:35:57 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:35:57 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:35:57 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 12:35:57 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:35:57 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 12:35:57 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:35:57 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:35:58 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---SUCCEEDED
+十二月 02, 2017 12:35:58 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 12:35:58 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED
+十二月 02, 2017 12:35:58 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 14:00:00 EST 2017
+to Fri Dec 01 15:59:00 EST 2017
+in Droval Campus
+---FAILED
+十二月 02, 2017 12:37:38 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:37:38 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:37:38 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 12:37:38 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:37:38 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:37:38 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:37:38 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 12:37:38 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:37:38 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:38:10 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:38:10 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:38:10 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:38:10 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:38:10 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 12:38:10 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:38:10 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 12:38:10 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:38:10 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:39:20 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:39:20 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:39:20 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:39:20 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:39:20 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 12:39:20 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:39:20 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 12:39:20 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:39:20 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:39:20 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 12:39:20 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 12:39:20 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 14:00:00 EST 2017
+to Fri Dec 01 15:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED
+十二月 02, 2017 12:39:20 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---FAILED
+十二月 02, 2017 12:43:32 上午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 12:43:49 上午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:43:51 上午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 1
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---FAILED
+十二月 02, 2017 1:17:16 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:16 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:16 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 1:17:16 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:16 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 1:17:16 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:16 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:17:17 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 1:17:53 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:53 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:53 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 1:17:53 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:53 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:17:53 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:17:53 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 1:17:53 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 14:00:00 EST 2017
+to Fri Dec 01 15:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED
+十二月 02, 2017 1:17:53 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---SUCCEEDED
+十二月 02, 2017 1:17:53 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 1:18:48 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:18:49 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:18:49 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 1:18:49 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:18:49 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:18:49 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 1:18:49 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:18:49 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:18:49 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:18:49 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 14:00:00 EST 2017
+to Fri Dec 01 15:59:00 EST 2017
+in Kirkland Campus
+---FAILED
+十二月 02, 2017 1:18:49 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---FAILED
+十二月 02, 2017 1:18:49 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---FAILED
+十二月 02, 2017 1:18:49 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---FAILED
+十二月 02, 2017 1:19:24 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:19:24 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:19:24 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 1:19:24 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:19:24 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:19:24 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:19:24 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:19:24 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:19:24 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 1:19:24 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 1:19:24 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---SUCCEEDED
+十二月 02, 2017 1:19:24 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---FAILED
+十二月 02, 2017 1:19:24 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 14:00:00 EST 2017
+to Fri Dec 01 15:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED
+十二月 02, 2017 1:24:01 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:24:02 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:24:02 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Westmount Campus
+十二月 02, 2017 1:24:02 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:24:02 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:24:02 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:24:02 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Kirkland Campus
+十二月 02, 2017 1:24:02 下午 Client.StudentClient <init>
+信息: 
+Student DVLs1111 logged in
+十二月 02, 2017 1:24:02 下午 Client.Client getAvailableTimeSlot
+信息: 
+DVLs1111 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 1:24:02 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 16:00:00 EST 2017
+to Fri Dec 01 17:59:00 EST 2017
+in Westmount Campus
+---SUCCEEDED
+十二月 02, 2017 1:24:02 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---SUCCEEDED
+十二月 02, 2017 1:24:02 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 12:00:00 EST 2017
+to Fri Dec 01 13:59:00 EST 2017
+in Droval Campus
+---FAILED
+十二月 02, 2017 1:24:02 下午 Client.StudentClient bookRoom
+信息: 
+Student DVLs1111
+booking room 2
+from Fri Dec 01 14:00:00 EST 2017
+to Fri Dec 01 15:59:00 EST 2017
+in Kirkland Campus
+---SUCCEEDED

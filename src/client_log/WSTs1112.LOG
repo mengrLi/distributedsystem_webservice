@@ -1,0 +1,38 @@
+十二月 01, 2017 1:30:36 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 01, 2017 1:43:00 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 01, 2017 5:01:11 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 01, 2017 5:04:00 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 01, 2017 11:30:57 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 01, 2017 11:32:25 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 01, 2017 11:38:16 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 01, 2017 11:41:00 下午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 02, 2017 12:45:14 上午 Client.StudentClient <init>
+信息: 
+Student WSTs1112 logged in
+十二月 02, 2017 12:45:44 上午 Client.Client getAvailableTimeSlot
+信息: 
+WSTs1112 check all available time slots on Fri Dec 01 00:00:00 EST 2017 in Droval Campus
+十二月 02, 2017 12:45:56 上午 Client.StudentClient bookRoom
+信息: 
+Student WSTs1112
+booking room 1
+from Fri Dec 01 08:00:00 EST 2017
+to Fri Dec 01 09:59:00 EST 2017
+in Droval Campus
+---FAILED
